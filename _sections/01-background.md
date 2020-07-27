@@ -1,0 +1,9 @@
+---
+layout: post
+title: Background
+description: Breath-Hold (BH) induced Cerebrovascular reactivity (CVR) measures the ability of the brain’s vasculature to respond to a vasodilatory stimulus. However, BH movement artifacts are time-locked with the vasodilatory signal of interest, potentially introducing considerable bias on CVR estimates. We compare different strategies based on Multi-Echo (ME) BOLD fMRI to clean BH data.
+image: background.png
+---
+
+Cerebrovascular reactivity (CVR) measures the ability of the brain’s vasculature to respond to a vasodilatory stimulus, such as CO2 , and is an emerging imaging metric of cerebrovascular health. Breath-Hold (BH) induced CVR mapping is a valid alternative to gas inhalation challenges [1] with functional MRI. However, BH movement artifacts are time-locked with the vasodilatory signal of interest, potentially introducing considerable bias on CVR estimates. Multi-Echo (ME) BOLD fMRI enhances the sensitivity to the BOLD effect by optimally combining the echoes, and enables denoising approaches that have demonstrated to remove non-BOLD (e.g. movement) artefacts effectively [2-5].
+Using a combined ME BOLD and pseudo-continuous arterial spin labelling acquisition, Cohen and Wang have shown that Optimal Combination (OC) of ME time series improves the reliability and repeatability of BH induced CVR mapping [6] assessed over 2 sessions. However, OC is not sufficient to remove motion effects from true fluctuations related to CVR. Here, we (1) generalise these results by computing quantitative CVR maps obtained from a fast (1.5 s) TR, ME-BOLD acquisition acquired over 9 sessions with concurrent end-tidal CO2 recordings, and (2) compare how single echo, OC and ME-based Independent Component Analysis (ME-ICA) denoising [3,4,5] preprocessing pipelines remove motion artefacts and obtain more reliable results.

@@ -1,0 +1,38 @@
+# Site settings
+title: Cleaning CVR maps with Multi-Echo BOLD fMRI
+email: s.moia@bcbl.eu
+description: Improving breath-hold cerebrovascular reactivity mapping with multi-echo BOLD fMRI
+baseurl: "/cvr-meica-motion-removal" # the subpath of your site, e.g. /blog
+url: "https://smoia.github.io" # the base hostname & protocol for your site
+
+# Misc settings
+featured-image-source:
+
+# Build settings
+markdown: kramdown
+collections:
+  - sections
+
+# Social settings (Will appear in the footer)
+500px_url:
+facebook_url:
+github_url: https://smoia.github.io
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/SteMoia
+
+# Homepage tiles (The "in a nutshell")
+tiles-source: sections # accepts "sections", "posts" or "pages"
+tiles-count: 3
+
+# Outreach Data
+out_title: Improving breath-hold cerebrovascular reactivity mapping with multi-echo BOLD fMRI
+out_authors: Stefano Moia, Maite Termenon, Eneko Uruñuela, Rachael Stickland, Molly Bright, César Caballero-Gaudes
+take_home: To improve breath-hold induced CVR estimation, noisy ICs must be added to the regression model after orthogonalization to the signals of interests and other BOLD-related ICs
+downloadable:
+  - {name: ISMRM2020, file: 3829_ISMRM_Moia.pdf, type: poster}
+  - {name: OHBM2020, file: Moia_OHBM_1509.pdf, type: poster}
