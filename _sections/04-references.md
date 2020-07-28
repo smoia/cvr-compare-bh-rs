@@ -2,14 +2,22 @@
 layout: post
 title: References
 ---
-1. Kastrup, A. (2001), ‘Assessment of cerebrovascular reactivity with functional magnetic resonance imaging: Comparison of CO2 and breath holding’, Magnetic Resonance Imaging, vol. 19, n. 1, pp. 13-20
-2. Caballero-Gaudes, C. (2017), ‘Methods for cleaning the BOLD fMRI signal’, Neuroimage, vol. 154, pp. 128-149
-3. Kundu, P. (2012) ‘Differentiating BOLD and non-BOLD signals in fMRI time series using multi-echo EPI’, Neuroimage, vol. 60, pp. 1759–1770
-4. Kundu, P. (2013) ‘Integrated strategy for improving functional connectivity mapping using multiecho fMRI’, Proceedings of the National Academy of Sciences, vol. 110, n. 40, pp. 16187-16192
-5. Power, J.D. (2017), ‘Ridding fMRI data of motion-related influences: Removal of signals with distinct spatial and physical bases in multiecho data‘, PNAS, vol. 115, n. 9, E2105-14
-7. Bright, M.G. (2013), ‘Reliable quantification of BOLD fMRI cerebrovascular reactivity despite poor breath-hold performance’, Neuroimage, vol. 83, pp. 559-568
-8. DuPre, E. (2019) ‘ME-ICA/tedana: 0.0.6’, doi:10.5281/ZENODO.2558498
-9. Moia, S., Stickland, R.C. (2020), ‘Voxelwise optimization of hemodynamic lags to improve regional CVR estimates in breath-hold fMRI’, accepted in Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Montreal, Canada;
-10. Power, J. D. (2012) ‘Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion’, Neuroimage, vol. 59, n. 3, pp. 2142–2154
-11. Smyser, C. D. (2011) ‘Functional connectivity MRI in infants: Exploration of the functional organization of the developing brain’, Neuroimage, vol. 56, n. 3, pp. 1437-1452
-12. Chen, G. (2018) ‘Intraclass correlation: Improved modeling approaches and applications for neuroimaging’, Human Brain Mapping
+1. Kastrup, A., Krüger, G., Neumann-Haefelin, T., & Moseley, M. E. (2001). Assessment of cerebrovascular reactivity with functional magnetic resonance imaging: Comparison of CO2 and breath holding. Magnetic Resonance Imaging, 19(1), 13–20. https://doi.org/10.1016/S0730-725X(01)00227-2
+2. Liu, P., Li, Y., Pinho, M., Park, D. C., Welch, B. G., & Lu, H. (2017). Cerebrovascular reactivity mapping without gas challenges. NeuroImage, 146(November 2016), 320–326. https://doi.org/10.1016/j.neuroimage.2016.11.054
+3. Lipp, I., Murphy, K., Caseras, X., & Wise, R. G. (2015). Agreement and repeatability of vascular reactivity estimates based on a breath-hold task and a resting state scan. NeuroImage, 113, 387–396. https://doi.org/10.1016/j.neuroimage.2015.03.004
+4. Kannurpatti, S. S., & Biswal, B. B. (2008). Detection and scaling of task-induced fMRI-BOLD response using resting state fluctuations. NeuroImage, 40(4), 1567–1574. https://doi.org/10.1016/j.neuroimage.2007.09.040
+5. Bright, M. G., & Murphy, K. (2013). Reliable quantification of BOLD fMRI cerebrovascular reactivity despite poor breath-hold performance. NeuroImage, 83, 559–568. https://doi.org/10.1016/j.neuroimage.2013.07.007
+6. Moia, S., Stickland, R. C., Ayyagari, A., Termenon, M., Caballero-gaudes, C., & Bright, M. G. (2020). Voxelwise optimization of hemodynamic lags to improve regional CVR estimates in breath-hold fMRI. Accepted in Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Montreal, Canada;
+7. Taylor, P. A., & Saad, Z. S. (2013). FATCAT: (An Efficient) functional and tractographic connectivity analysis toolbox. Brain Connectivity, 3(5), 523–535. https://doi.org/10.1089/brain.2013.0154
+8. Schaefer, A., Kong, R., Gordon, E. M., Laumann, T. O., Zuo, X.-N., Holmes, A. J., … Yeo, B. T. T. (2018). Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI. Cerebral Cortex, 28(9), 3095–3114. https://doi.org/10.1093/cercor/bhx179
+9. Destrieux, C., Fischl, B., Dale, A., & Halgren, E. (2010). Automatic parcellation of human cortical gyri and sulci using standard anatomical nomenclature. NeuroImage, 53(1), 1–15. https://doi.org/10.1016/j.neuroimage.2010.06.010
+10. Mcgraw, K. O., & Wong, S. P. (1996). Forming Inferences About Some Intraclass Correlation Coefficients. Psychological Methods, 1(1), 30–46. Retrieved from papers2://publication/uuid/D94ABE24-4E43-4996-83B0-32BE18139462
+
+
+
+
+
+
+
+
+
