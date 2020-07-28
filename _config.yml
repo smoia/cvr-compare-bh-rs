@@ -1,5 +1,5 @@
 # Site settings
-title: Cleaning CVR maps with Multi-Echo BOLD fMRI
+title: Comparing CVR and RSFA reliability
 email: s.moia@bcbl.eu
 description: Assessment of longitudinal cerebrovascular reactivity measurements based on breath-hold and resting state BOLD multi-echo fMRI
 baseurl: "/cvr-meica-motion-removal" # the subpath of your site, e.g. /blog
