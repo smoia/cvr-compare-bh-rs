@@ -2,7 +2,7 @@
 title: Comparing CVR and RSFA reliability
 email: s.moia@bcbl.eu
 description: Assessment of longitudinal cerebrovascular reactivity measurements based on breath-hold and resting state BOLD multi-echo fMRI
-baseurl: "/cvr-meica-motion-removal" # the subpath of your site, e.g. /blog
+baseurl: "/cvr-compare-bh-rs" # the subpath of your site, e.g. /blog
 url: "https://smoia.github.io" # the base hostname & protocol for your site
 
 # Misc settings
